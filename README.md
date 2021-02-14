@@ -1,5 +1,5 @@
 # INVENTORY_MANAGEMENT_SYSTEM
-
+(class 12 project)
 #note:
 1)only compatible with windows!
 2)the installer.pyw module is not part of the project! it exists only to setup the tables
